@@ -13,7 +13,7 @@ Realizar un análisis exploratorio de datos (EDA) del canal **Ashram Talks** par
 - **Python**: pandas, matplotlib.
 - **Jupyter Notebook**.
 - **YouTube Studio** (origen de datos).
-- (Opcional) Tableau para visualizaciones.
+- **Tableau para visualizaciones** .
 
 ## 📈 Hallazgos principales
 - Los **videos de 5–40 minutos** (Bhagavad Gita) generan la mayor cantidad de horas vistas (**1,742 h**) con una retención sólida (**32%**).
@@ -28,5 +28,5 @@ Realizar un análisis exploratorio de datos (EDA) del canal **Ashram Talks** par
 - Publicar en **horarios pico de Colombia y México**.
 
 ## 👤 Autor
-**[Tu Nombre]**  
+**[Luis Felipe Aparicio Ponce]**  
 Proyecto de análisis de datos aplicado al canal Ashram Talks.
